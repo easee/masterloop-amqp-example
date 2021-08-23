@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MasterloopAmqp", "MasterloopAmqp.csproj", "{1920EA77-5D21-41B0-95F1-E7D5E3884DCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1920EA77-5D21-41B0-95F1-E7D5E3884DCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1920EA77-5D21-41B0-95F1-E7D5E3884DCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1920EA77-5D21-41B0-95F1-E7D5E3884DCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1920EA77-5D21-41B0-95F1-E7D5E3884DCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02B9A95A-D0A0-4CA2-A2C6-5FE009EA4B1E}
+	EndGlobalSection
+EndGlobal
